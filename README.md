@@ -1,6 +1,6 @@
-# File Sorting Script
+# File Sorting Script (Bash)
 
-This script helps organize files from a source directory into separate directories based on their file extensions.
+This script written in Bash helps organize files from a source directory into separate directories based on their file extensions.
 
 ## Usage
 
@@ -33,3 +33,4 @@ This script helps organize files from a source directory into separate directori
 
 - Make sure to adjust the `$source_files` variable in the script to point to the correct source directory.
 - This script assumes that your source directory contains only the files you want to sort.
+
